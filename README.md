@@ -14,10 +14,9 @@ This project allows users to:
 # Live Demo
 
 Frontend:  
-https://your-netlify-link.netlify.app
+
 
 Backend API:  
-https://your-render-link.onrender.com/api/v1
 
 ---
 
@@ -27,7 +26,6 @@ https://your-render-link.onrender.com/api/v1
 - React.js
 - Vite
 - Tailwind CSS
-- Axios
 - React Router
 
 ## Backend
